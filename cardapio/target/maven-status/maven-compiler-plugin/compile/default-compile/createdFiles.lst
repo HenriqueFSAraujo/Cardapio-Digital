@@ -1,0 +1,3 @@
+com\example\cardapio\food\Food.class
+com\example\cardapio\food\FoodRepository.class
+com\example\cardapio\food\FoodResponseDTO.class
